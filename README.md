@@ -1,7 +1,10 @@
 🧭 Lost and Found Community Website
+
 A web platform where users can report, find, and recover lost or found items within a community. Built as a BCA final-year project using HTML, CSS, JavaScript, PHP, and MySQL.
 
 ✅ Features
+
+
 User Signup/Login system with validation
 Report Lost or Found items with images
 Community Feed to view all reported items
@@ -15,6 +18,7 @@ Backend: PHP
 Database: MySQL
 Development Tool: XAMPP (Apache + MySQL)
 📁 Folder Structure
+
 lost-and-found/ ├── index.html ├── login.html / signup.html ├── dashboard.php ├── report-lost.php / report-found.php ├── myfeed.php / myresponse.php ├── contact.html ├── css/ ├── js/ ├── img/ ├── db/ │ └── connection.php └── lost_found.sql (database file)
 
 ⚙️ How to Run the Project (Locally)
