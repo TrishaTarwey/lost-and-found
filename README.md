@@ -17,6 +17,8 @@ Frontend: HTML5, CSS3, JavaScript, Bootstrap 5
 Backend: PHP
 Database: MySQL
 Development Tool: XAMPP (Apache + MySQL)
+
+
 📁 Folder Structure
 
 lost-and-found/ ├── index.html ├── login.html / signup.html ├── dashboard.php ├── report-lost.php / report-found.php ├── myfeed.php / myresponse.php ├── contact.html ├── css/ ├── js/ ├── img/ ├── db/ │ └── connection.php └── lost_found.sql (database file)
